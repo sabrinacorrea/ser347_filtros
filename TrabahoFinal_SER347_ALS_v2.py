@@ -86,7 +86,7 @@ def stats_sar(img_ori, img_filt):
 # Criação de matriz das estatísticas vazia:
 #   Este numpy array foi criado para que sejam feito um "append" dos valores da estatistica dos dados
 estatistica = [[0,0,0]]
-parametros = [[0, 0, 0]]
+
 # ======================================================================================================================
 # 2 - ENTRADA E VERIFICAÇÃO DE DADOS
 # ======================================================================================================================
